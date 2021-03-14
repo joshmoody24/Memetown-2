@@ -1,0 +1,68 @@
+A stealth game where you're a recently hired janitor at a tech company. Over time, it becomes apparent that they aren't what they appear to be. You have to investigate their dark deeds while making sure you don't appear on the security cameras, all while keeping up on your janitorial duties so they don't become suspicious.
+
+Art style - either 2D isometric pixel art or 3D with 2d characters a la paper mario (leaning toward that one)
+
+Gameplay - the game is divided into "nights." Each night, the player must empty garbages, clean windows, vacuum, etc. Certain events will occur randomly. For example, an employee might stay late, a computer might be logged on so you can check the email, etc. The player must search for information but avoid discovery through security systems. The player can unlock ways to complete the menial tasks more quickly, allowing them more time to search for clues. Eventually you're cruising around on a hoverboard, literally slowing down time as you hire nanobots to do your job for you while you go deeper and deeper into otherworldly dark dimensions to try to stop the CEO from becoming a Cthulu Robo-Zombie-Hitler Hybrid
+
+
+Random event ideas:
+1) A coworker stays late and passively keeps you from snooping around
+1) Garbage is strewn all over the ground, requiring additional time to clean
+1) A computer is left signed on, allowing the player to snoop
+2) A homeless man begs you to let him in. Used to be a member of the company till he wised up
+3) An employee is murdered and the killer is still in the building. Hide!
+
+Company
+An essential oils company
+
+Character Bios
+* = evil
+
+
+Elmer
+ - Salesman
+ - Cool bro who's also a conspiracy theorist
+Norman*
+ - Accountant
+ - Extremely dumb
+Leroy*
+ - Graphic designer
+ - Talks a lot
+ - TMI
+ - Overworks himself
+Wallace
+ - Software developer
+ - Bodybuilder with depression
+ - Works on weird efficiency projects as a hobby (turning lights off remotely, etc)
+Floyd*
+ - HR Guy, also manages building
+Jim*
+ - Big bad boss man
+ - Thicc
+ - Sinister
+ - President and CEO
+Arthur
+ - Old guy, dark and cynical
+ - Used to be the vice president
+ - But he got kicked out
+ - Lives on the streets
+
+
+Marjorie
+ - Warehouse worker/trucker
+ - Long distance runner
+ - Ph.D in Aerospace engineering but has no ambition to apply it whatsoever
+Jennie
+ - Secretary
+ - Always distracted
+Lucille*
+ - Graphic designer
+ - Extremely shrewd and miserly
+Shirley*
+ - Vice president
+ - Super chill (but also super evil)
+ - Good cop to Jim's bad cop
+Stella*
+ - Salesperson
+ - Smooth talker
+ - Obsessed with stuffed animals

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: FatSuit
+  m_Controller: {fileID: 9100000, guid: ef5efcf4cc2222741b63b070ce0ea743, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 23caad011eda5904eb547536267b692a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f1538e732dded643b1c76a472a70a97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1a004c9c8ad84ed4a996c7eebca214a7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f1538e732dded643b1c76a472a70a97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 48576cec32e2a0449992f43623b5e645, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abe86fcf6b49acb45ab7540027b91513, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 096745080a763d0419ce61ab42a76532, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abe86fcf6b49acb45ab7540027b91513, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0474995d320e9eb4a9cd712f0757eeaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 358687628574d434d92e2851f2179491, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6495d873093d59046856b6543e7ccbaa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 358687628574d434d92e2851f2179491, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f4065a1e728c2bc43aae36a55741b433, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c507d4d68bf4b54ba7400c6262e7342, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 295fc06ecf7c0014387dda60bae58da7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4c507d4d68bf4b54ba7400c6262e7342, type: 2}

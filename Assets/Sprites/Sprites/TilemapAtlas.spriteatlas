@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TilemapAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 0
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+    - {fileID: 2800000, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+    - {fileID: 2800000, guid: 02042ab710da684448263e95933bdb28, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300028, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300030, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300024, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300026, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300022, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300020, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300000, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300002, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300034, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300056, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300054, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300052, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300036, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300038, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300042, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300040, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300046, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300044, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300050, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300048, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300006, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300004, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300008, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300010, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300014, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300012, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300018, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300016, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300032, guid: b7c59a9730e98ed408bb05c5ba24bd24, type: 3}
+  - {fileID: 21300004, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300002, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300018, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300020, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300012, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300014, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300034, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300016, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300032, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300006, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300030, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300008, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300028, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300010, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300026, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300024, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300022, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300000, guid: 02042ab710da684448263e95933bdb28, type: 3}
+  - {fileID: 21300032, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300038, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300042, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300052, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300024, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300044, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300006, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300016, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300046, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300036, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300010, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300028, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300040, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300054, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300050, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300030, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300004, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300018, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300012, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300034, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300020, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300000, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300026, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300048, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300022, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  - {fileID: 21300014, guid: 331b64dffc64d574e927a2726d833f62, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Snow Tilemap_36
+  - Snow Tilemap_37
+  - Snow Tilemap_34
+  - Snow Tilemap_35
+  - Snow Tilemap_33
+  - Snow Tilemap_30
+  - Rough Snow top middle
+  - Snow Tilemap_19
+  - Rough Snow top left
+  - Snow Tilemap_10
+  - Snow Tilemap_9
+  - Snow Tilemap_8
+  - Snow Tilemap_1
+  - Snow Tilemap_0
+  - Snow Tilemap_3
+  - Snow Tilemap_2
+  - Snow Tilemap_5
+  - Snow Tilemap_4
+  - Snow Tilemap_7
+  - Snow Tilemap_6
+  - Snow Tilemap_21
+  - Snow Tilemap_20
+  - Snow Tilemap_22
+  - Snow Tilemap_25
+  - Snow Tilemap_27
+  - Snow Tilemap_26
+  - Snow Tilemap_29
+  - Snow Tilemap_28
+  - Snow Tilemap_38
+  - forest tilemap PSD_19
+  - forest tilemap PSD_18
+  - forest tilemap PSD_28
+  - forest tilemap PSD_29
+  - forest tilemap PSD_25
+  - forest tilemap PSD_26
+  - forest tilemap PSD_38
+  - forest tilemap PSD_27
+  - forest tilemap PSD_37
+  - forest tilemap PSD_20
+  - forest tilemap PSD_36
+  - forest tilemap PSD_21
+  - forest tilemap PSD_35
+  - forest tilemap PSD_22
+  - forest tilemap PSD_34
+  - forest tilemap PSD_33
+  - forest tilemap PSD_30
+  - forest tilemap PSD_17
+  - Road Center Left
+  - Road Curve Inside Top right
+  - road curve inside bottom right
+  - Road Center Bottom
+  - Road Blank
+  - road curve outside top left
+  - sidewalk vertical
+  - sidewalk horizontal
+  - road curve outside top right
+  - Road Curve Inside Top Left
+  - Lamppost
+  - sidewalk topright
+  - road curve inside bottom left
+  - road center top
+  - road curve outside bottom right
+  - Grass 2
+  - Sidewalk topleft
+  - sidewalk bottomright
+  - Stop sign
+  - Road Center Right
+  - RoadHorizontal
+  - Grass
+  - Fence
+  - road curve outside botom left
+  - Road Vertical
+  - sidewalk bottomleft
+  m_Tag: TilemapAtlas
+  m_IsVariant: 0
